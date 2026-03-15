@@ -27,6 +27,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [DeepAI](https://deepai.org/)
 - [Runway](https://runwayml.com/)
 - [Synthesia](https://www.synthesia.io/)
+- [PopcornAI](https://popcornai.art/) — AI video and image generator for turning still visuals into short creator clips, ad creatives, and campaign-ready video content.
 
 ---
 
