@@ -135,6 +135,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Pictory](https://pictory.ai/)
 - [Lumen5](https://www.lumen5.com/)
 - [Runway](https://runwayml.com/)
+- [PVID](https://pvid.app/) - Free AI video generator aggregating Kling 3.0, Sora 2, Veo 3.1. Supports image-to-video, text-to-video, video-to-video with 100 free credits for new users.
 
 ---
 
