@@ -135,6 +135,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Pictory](https://pictory.ai/)
 - [Lumen5](https://www.lumen5.com/)
 - [Runway](https://runwayml.com/)
+- [ImagineClip](https://imagineclip.com?ref=awesome-video-ai-tools)
 
 ---
 
@@ -147,6 +148,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Reels AI](https://www.reels.ai/)
 - [Vidnami](https://www.vidnami.com/)
 - [Clipchamp](https://www.clipchamp.com/)
+- [ImagineClip](https://imagineclip.com?ref=awesome-video-ai-tools)
 
 ---
 
