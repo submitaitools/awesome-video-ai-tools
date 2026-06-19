@@ -135,6 +135,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Pictory](https://pictory.ai/)
 - [Lumen5](https://www.lumen5.com/)
 - [Runway](https://runwayml.com/)
+- [ImagineClip](https://imagineclip.com/)
 
 ---
 
