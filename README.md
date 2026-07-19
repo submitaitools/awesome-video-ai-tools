@@ -63,6 +63,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [DeepBrain](https://www.deepbrain.io/)
 - [Synthesia](https://www.synthesia.io/)
 - [Rocketium](https://rocketium.com/)
+- [RunAPI Kling SDK](https://github.com/runapi-ai/kling-sdk)
 
 ---
 
