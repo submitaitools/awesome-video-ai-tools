@@ -87,6 +87,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Biteable](https://biteable.com/)
 - [Shakr](https://www.shakr.com/)
 - [Animoto](https://animoto.com/)
+- [Marketing Studio](https://github.com/AtlasCloudAI/atlas-marketing-studio) — Open-source, self-hostable AI ad studio for generating testable UGC product ads, reference-ad remakes, short drama ads, and comedy skits.
 
 ---
 
