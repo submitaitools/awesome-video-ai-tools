@@ -183,5 +183,6 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [DeepAI](https://deepai.org/)
 - [HitPaw Video Enhancer](https://www.hitpaw.com/)
 - [Veed.io](https://www.veed.io/)
+- [Video Upscaler](https://videoupscaler.video/)
 
 ---
