@@ -63,6 +63,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [DeepBrain](https://www.deepbrain.io/)
 - [Synthesia](https://www.synthesia.io/)
 - [Rocketium](https://rocketium.com/)
+- [videos.social](https://videos.social/?utm_source=awesome-video-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d)
 
 ---
 
