@@ -51,6 +51,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Kapwing](https://www.kapwing.com/)
 - [Filmora](https://filmora.wondershare.com/)
 - [InVideo](https://invideo.io/)
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)
 
 ---
 
