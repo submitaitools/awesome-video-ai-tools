@@ -147,6 +147,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Reels AI](https://www.reels.ai/)
 - [Vidnami](https://www.vidnami.com/)
 - [Clipchamp](https://www.clipchamp.com/)
+- [shortshort](https://www.shortshort.io/)
 
 ---
 
