@@ -51,6 +51,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Kapwing](https://www.kapwing.com/)
 - [Filmora](https://filmora.wondershare.com/)
 - [InVideo](https://invideo.io/)
+- [Orkas VideoStudio](https://orkas.ai/agents/videostudio/?source=gh_savideo) - VideoStudio turns briefs and footage into finished videos inside Orkas, an open-source, local-first desktop AI workforce coordinated by a Commander.
 
 ---
 
