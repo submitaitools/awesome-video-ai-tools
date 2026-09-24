@@ -183,5 +183,6 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [DeepAI](https://deepai.org/)
 - [HitPaw Video Enhancer](https://www.hitpaw.com/)
 - [Veed.io](https://www.veed.io/)
+- [UpRes](https://upres.ai/) - AI video and image upscaler to 8K across 14 neural models with batch processing, REST API, and MCP server
 
 ---
