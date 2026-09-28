@@ -75,6 +75,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Fotor](https://www.fotor.com/)
 - [Crello](https://crello.com/)
 - [Snappa](https://snappa.com/)
+- [Raphael AI](https://raphael.app) — AI design studio for product photos, ad creatives, and brand visuals (great for thumbnails)
 
 ---
 
