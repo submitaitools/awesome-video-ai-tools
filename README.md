@@ -27,6 +27,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [DeepAI](https://deepai.org/)
 - [Runway](https://runwayml.com/)
 - [Synthesia](https://www.synthesia.io/)
+- [AI Dance Generator](https://danceaigenerator.com/) - Turn one still photo into a short 9:16 AI dance video; pay per clip, no subscription.
 
 ---
 
