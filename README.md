@@ -19,6 +19,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 ---
 
 ## 🎞️ 2. [AI Image to Video](https://submitaitools.org/category/best-ai-image-to-video-tools)  
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 **Description:** Convert static images into dynamic videos with effects, transitions, and animation.
 
 **Top Tools:**
