@@ -51,6 +51,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Kapwing](https://www.kapwing.com/)
 - [Filmora](https://filmora.wondershare.com/)
 - [InVideo](https://invideo.io/)
+- [Karaoke Captions](https://karaokecaptions.com/) – Browser-based word-by-word video captions with local speech recognition and MP4, SRT and VTT export.
 
 ---
 
