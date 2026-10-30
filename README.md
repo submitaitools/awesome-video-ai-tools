@@ -7,6 +7,8 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 ---
 
 ## 🎬 1. [AI Animated Video](https://submitaitools.org/category/best-ai-animated-video-tools)  
+- [LiveFaceSwap AI](https://livefaceswap.ai/) - Real-time AI face swap, try-on, and restyle on webcam video; browser preview plus desktop virtual camera for OBS and calls.
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, outfit try-on, and restyle for webcam video, in the browser or as a virtual camera for OBS, Zoom, and Discord.
 **Description:** Create animated videos automatically using AI-driven tools for character design, motion, and scenes.
 
 **Top Tools:**
