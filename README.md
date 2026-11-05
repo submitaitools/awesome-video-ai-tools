@@ -27,6 +27,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [DeepAI](https://deepai.org/)
 - [Runway](https://runwayml.com/)
 - [Synthesia](https://www.synthesia.io/)
+- [Cyanvid](https://cyanvid.com/?utm_source=github-submitaitools-awesome-video-ai-tools&utm_medium=directory&utm_campaign=backlinks)
 
 ---
 
@@ -47,6 +48,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 
 **Top Tools:**
 - [Adobe Premiere Pro with Sensei](https://www.adobe.com/products/premiere.html)
+- [Barz Studio](https://barzvideo.com/?utm_source=github-submitaitools-awesome-video-ai-tools&utm_medium=directory&utm_campaign=backlinks)
 - [Magisto](https://www.magisto.com/)
 - [Kapwing](https://www.kapwing.com/)
 - [Filmora](https://filmora.wondershare.com/)
