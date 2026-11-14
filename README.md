@@ -159,6 +159,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Synthesia](https://www.synthesia.io/)
 - [Veed.io](https://www.veed.io/)
 - [MugLife](https://www.muglife.com/)
+- [LipRap](https://liprap.com/)
 
 ---
 
